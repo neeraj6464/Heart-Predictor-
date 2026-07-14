@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
@@ -106,11 +106,8 @@ The project can be trained using multiple classification algorithms:
 
 ### Clone the Repository
 
-```bash
 https://github.com/neeraj6464/Heart-Predictor-.git
 
-cd HeartShield
-```
 
 ### Create Virtual Environment
 
@@ -139,10 +136,8 @@ pip install -r requirements.txt
 
 Open your browser and visit:
 
-```
 
 👉 https://neeraj626.streamlit.app/
-```
 
 ---
 
@@ -213,12 +208,6 @@ Contributions are welcome!
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
