@@ -136,14 +136,12 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Application
 
-```bash
-streamlit run app.py
-```
 
 Open your browser and visit:
 
 ```
-http://localhost:8501
+
+👉 https://neeraj626.streamlit.app/
 ```
 
 ---
