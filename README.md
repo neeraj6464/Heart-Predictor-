@@ -98,45 +98,7 @@ The project can be trained using multiple classification algorithms:
 - Joblib
 - FPDF
 
----
 
-## 📂 Project Structure
-
-```
-HeartShield/
-│
-├── app.py
-├── train.py
-├── predict.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── dataset/
-│   └── heart.csv
-│
-├── models/
-│   ├── heart_model.pkl
-│   └── scaler.pkl
-│
-├── utils/
-│   ├── preprocess.py
-│   ├── helper.py
-│   └── pdf_report.py
-│
-├── assets/
-│   ├── logo.png
-│   └── banner.png
-│
-├── screenshots/
-│   ├── home.png
-│   ├── prediction.png
-│   ├── dashboard.png
-│   └── report.png
-│
-└── reports/
-    └── sample_report.pdf
-```
 
 ---
 
@@ -145,7 +107,7 @@ HeartShield/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/HeartShield.git
+https://github.com/neeraj6464/Heart-Predictor-.git
 
 cd HeartShield
 ```
@@ -162,12 +124,6 @@ python -m venv .venv
 
 ```bash
 .venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-source .venv/bin/activate
 ```
 
 ### Install Dependencies
@@ -202,43 +158,18 @@ The trained model will automatically be saved inside the **models/** directory.
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-> Add a screenshot here
-
----
-
-### ❤️ Prediction Page
-
-> Add a screenshot here
-
----
-
-### 📊 Dashboard
-
-> Add a screenshot here
-
----
-
-### 📄 PDF Report
-
-> Add a screenshot here
-
----
 
 ## ☁️ Deployment
 
-Deploy the application using:
+The application is deployed and publicly accessible.
+
+### 🌐 Live Website
+
+👉 https://neeraj626.streamlit.app/
+
+### Platform
 
 - Streamlit Community Cloud
-- Hugging Face Spaces
-- Render
-- Railway
-- AWS EC2
-- Microsoft Azure
-
 ---
 
 ## 📦 Requirements
@@ -293,17 +224,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
-
-**Dipanshu Sahu**
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://www.linkedin.com/in/your-profile
-
-🐙 GitHub: https://github.com/yourusername
-
----
 
 ## ⭐ Support
 
